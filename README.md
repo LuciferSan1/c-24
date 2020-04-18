@@ -1,2 +1,1 @@
-# c-24
-## Github @dynamite-code
+Second Stage of the CannonBall Game...
